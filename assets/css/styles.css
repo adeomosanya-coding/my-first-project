@@ -4,5 +4,9 @@ body{
 }
 
 h2{
-    color: orangered
+    color: orangered;
+}
+
+p{
+    font-weight: bold;
 }
